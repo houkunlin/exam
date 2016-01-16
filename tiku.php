@@ -17,7 +17,7 @@ ok正确填空内容
 
 $array=array(
 array(
-'timu'=>'The years he sepent in the coutrtryside proved to be a _______ experience. ',
+'timu'=>'The years he sepent in the coutrtryside proved to be a(n) _______ experience. ',
 'kong'=>'',
 'ok'=>'rewarding'),
 
@@ -101,9 +101,9 @@ array(
 
 
 array(
-'timu'=>'Modern music may have a neative influence as well as a ______ one on teenagers.',
+'timu'=>'Modern music may have a neative ______ as well as a positive one on teenagers.',
 'kong'=>'',
-'ok'=>'positive'),
+'ok'=>'influence'),
 
 
 array(
