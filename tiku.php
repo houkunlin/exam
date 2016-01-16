@@ -32,7 +32,7 @@ array(
 'kong'=>'embarrass',
 'ok'=>'embarrassing'),
 array(
-'timu'=>'Don't just complain about what's wrong with it ; suggest some ______ ways to solve the problem.',
+'timu'=>"Don't just complain about what's wrong with it ; suggest some ______ ways to solve the problem.",
 'kong'=>'positive',
 'ok'=>'positive'),
 array(
@@ -69,7 +69,7 @@ array(
 'kong'=>'disgusting',
 'ok'=>'disgusting'),
 array(
-'timu'=>'I wasn't quite angry, but I was a little ______ when my noodles were cooked poorly.',
+'timu'=>"I wasn't quite angry, but I was a little ______ when my noodles were cooked poorly.",
 'kong'=>'upset',
 'ok'=>'upset'),
 array(
@@ -90,7 +90,7 @@ array(
 7. reluctance
 */
 array(
-'timu'=>'______ I was very unhappy with what he had said, but ı didn't show it.',
+'timu'=>"______ I was very unhappy with what he had said, but ı didn't show it.",
 'kong'=>'inwardly',
 'ok'=>'Inwardly'),
 array(
