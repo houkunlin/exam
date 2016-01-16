@@ -1,4 +1,43 @@
-body
-{
-  font-size: 40pt;
+
+body {
+  padding-top: 50px;
+}
+
+.timulist{
+  border-radius:5px;
+  border:1px solid #3287FA;
+  box-shadow:1px 1px 1px 1px #FB4F94;
+  box-sizing:border;
+  padding:5px;
+  margin-bottom:10px;
+}
+
+.hklbq{
+  font-weight:bolder;
+  font-size:1.1em;
+  color:White;
+  padding:5px;
+  background:#4392E3;
+  
+  border-radius:5px;
+}
+.hklbq2{
+  font-weight:bolder;
+  font-size:1.0em;
+  color:White;
+  padding:2px;
+  background:#4392E3;
+  
+  border-radius:5px;
+}
+.oktrue{
+  background-color:#35FE00;
+  color:red;
+  font-size:1.1em;
+  text-shadow:1px 1px 1px #F68A3E;
+}
+.okfalse{
+  background-color:#009A92;
+  color:#74EB00;
+  text-shadow:1px 1px 1px red;
 }
